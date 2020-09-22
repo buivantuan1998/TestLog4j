@@ -1,0 +1,3 @@
+2020-09-22 09:05:21 DEBUG Log4j:10 - debug log
+2020-09-22 09:05:21 ERROR Log4j:11 - error log
+2020-09-22 09:05:21 INFO  Log4j:12 - info log
